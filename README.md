@@ -1,2 +1,1 @@
-# OOPS-Java-
 OOPS concepts
