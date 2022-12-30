@@ -25,3 +25,4 @@ public class abstractClass {
         child2 ch = new child2(); //yes this is possible
     }
 }
+//abstract class can only contain abstract methods.
